@@ -52,8 +52,8 @@ BEGIN
 END display_first_five_rewards;
 /
 
-SET SERVEROUTPUT ON;
-BEGIN
-  display_first_five_rewards;
-END;
-/
+-- SET SERVEROUTPUT ON;
+-- BEGIN
+--   display_first_five_rewards;
+-- END;
+-- /
